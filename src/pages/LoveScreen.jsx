@@ -9,6 +9,8 @@ const photos = [
   { url: '/photos/photo4.jpg', text: 'Valeu por estar comigo todo esse tempo fia, você não tem noção do quanto sou grato a você 🥰' },
   { url: '/photos/photo5.jpg', text: 'Eu te amo mais que tudo no universo, mais do que você consegue sequer imaginar 💗' },
   { url: '/photos/photo6.jpg', text: 'Espero poder compartilhar o resto da minha vida com você, eu te quero pra sempre 🫂' },
+  { url: '/photos/photo7.PNG', text: 'E continuarei te querendo, mesmo que em outros universos ou outras vidas 🪞' },
+  { url: '/photos/photo8.jpg', text: 'Muito obrigado por tortar a minha vida melhor, por me amar e por ser você 😙' },
 ];
 
 const LoveScreen = () => {

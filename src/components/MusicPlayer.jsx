@@ -6,7 +6,8 @@ function MusicPlayer() {
     <div className="music-player">
       <h2><span>Nossa música:</span> I Was Made For Lovin' You</h2>
       <p>
-        Dê play antes de continuar lendo, é a música que mais me lembra de nós! A gente é do rock porra 🤘💀🖤
+        Dê play antes de continuar lendo, é a música que mais me lembra de nós! A gente é do rock porra <br />
+        🤘💀🖤
       </p>
       <img
         src="/capa_musica.jpg"

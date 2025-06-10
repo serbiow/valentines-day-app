@@ -25,6 +25,13 @@
   text-align: center;
 }
 
+.music-player p {
+  margin-bottom: 1rem;
+  color: #ccc;
+  font-size: 1rem;
+  text-align: center;
+}
+
 .music-cover {
   width: 120px;
   height: 120px;
