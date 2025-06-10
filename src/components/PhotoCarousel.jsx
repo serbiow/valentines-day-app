@@ -8,8 +8,7 @@ const PhotoCarousel = ({ photos }) => {
       showArrows={true}
       showThumbs={false}
       infiniteLoop={true}
-      autoPlay={true}
-      interval={4000} // 4 segundos por slide
+      autoPlay={false}
     >
       {photos.map((photo, index) => (
         <div key={index}>
